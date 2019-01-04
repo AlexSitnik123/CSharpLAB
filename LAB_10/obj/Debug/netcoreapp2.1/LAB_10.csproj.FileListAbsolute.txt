@@ -1,0 +1,11 @@
+/home/dikiy_alex/OOP/LAB_10/bin/Debug/netcoreapp2.1/LAB_10.deps.json
+/home/dikiy_alex/OOP/LAB_10/bin/Debug/netcoreapp2.1/LAB_10.runtimeconfig.json
+/home/dikiy_alex/OOP/LAB_10/bin/Debug/netcoreapp2.1/LAB_10.runtimeconfig.dev.json
+/home/dikiy_alex/OOP/LAB_10/bin/Debug/netcoreapp2.1/LAB_10.dll
+/home/dikiy_alex/OOP/LAB_10/bin/Debug/netcoreapp2.1/LAB_10.pdb
+/home/dikiy_alex/OOP/LAB_10/obj/Debug/netcoreapp2.1/LAB_10.csprojAssemblyReference.cache
+/home/dikiy_alex/OOP/LAB_10/obj/Debug/netcoreapp2.1/LAB_10.csproj.CoreCompileInputs.cache
+/home/dikiy_alex/OOP/LAB_10/obj/Debug/netcoreapp2.1/LAB_10.AssemblyInfoInputs.cache
+/home/dikiy_alex/OOP/LAB_10/obj/Debug/netcoreapp2.1/LAB_10.AssemblyInfo.cs
+/home/dikiy_alex/OOP/LAB_10/obj/Debug/netcoreapp2.1/LAB_10.dll
+/home/dikiy_alex/OOP/LAB_10/obj/Debug/netcoreapp2.1/LAB_10.pdb
