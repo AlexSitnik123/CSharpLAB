@@ -7,25 +7,36 @@ namespace LAB_10
     {
         protected string name;
         protected string surname;
-        public DateTime birthday { get; set; }
+        private DateTime _birthday;
+        public int Birthday
+        {
+            get
+            {
+                return _birthday.Year;
+            }
+            set
+            {
+                _birthday = new DateTime(value, _birthday.Month, _birthday.Day);
+            }
+        }
 
         public Person(string name, string surname, DateTime birthday) 
         {
             this.name = name;
             this.surname = surname;
-            this.birthday = birthday;
+            this._birthday = birthday;
         }
 
         public Person()
         {
             this.name = "Oleksiy";
             this.surname = "Sitnik";
-            this.birthday = new DateTime(2000, 6, 11);
+            this._birthday = new DateTime(2000, 6, 11);
         }
 
         public virtual void PrintFullInfo() 
         {
-            Console.WriteLine($"Name: {this.name}\nsurname: {this.surname}\nbirth date: {this.birthday}");
+            Console.WriteLine($"Name: {this.name}\nsurname: {this.surname}\nbirth date: {this._birthday.ToString()}");
         }
 
     }

@@ -83,7 +83,7 @@ namespace LAB_10
         public int Age()
         {
             DateTime now = DateTime.Today;
-            int age = now.Year - birthday.Year;
+            int age = now.Year - Birthday;
             return age;
         }
 
