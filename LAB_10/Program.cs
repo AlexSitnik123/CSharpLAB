@@ -26,7 +26,7 @@ namespace LAB_10
             s.AddExams(exams);
             s.PrintFullInfo();
 
-         Console.WriteLine();
+            Console.WriteLine();
 
             int age = s.Age();
 

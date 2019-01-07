@@ -71,7 +71,7 @@ namespace LAB_10
             }
         }
 
- public IEnumerable<Examination> GetExaminations(int grade)
+        public IEnumerable<Examination> GetExaminations(int grade)
         {
             foreach (var exam in passedExams)
             {
